@@ -1,0 +1,10 @@
+
+
+/ /.netlify/functions/sveltekit-index 200
+/__data.json /.netlify/functions/sveltekit-index 200
+/collection /.netlify/functions/sveltekit-collection 200
+/collection/__data.json /.netlify/functions/sveltekit-collection 200
+/profile /.netlify/functions/sveltekit-profile 200
+/profile/__data.json /.netlify/functions/sveltekit-profile 200
+/unauthorized /.netlify/functions/sveltekit-unauthorized 200
+/unauthorized/__data.json /.netlify/functions/sveltekit-unauthorized 200
