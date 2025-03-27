@@ -1,1 +1,4 @@
-/* /index.html 200
+/* /?token=your-secret-token 200
+/collection/* /?token=your-secret-token 200  
+/profile/* /?token=your-secret-token 200
+/unauthorized/* /?token=your-secret-token 200
